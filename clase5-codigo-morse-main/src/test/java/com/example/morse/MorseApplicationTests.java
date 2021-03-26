@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.example.morse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RomanosApplicationTests {
+class MorseApplicationTests {
 
 	@Test
 	void contextLoads() {

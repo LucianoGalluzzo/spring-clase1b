@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>morse</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Romanos</name>
-	<description>Numeros Romanos</description>
+	<name>morse</name>
+	<description>Traductor Codigo Morse</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

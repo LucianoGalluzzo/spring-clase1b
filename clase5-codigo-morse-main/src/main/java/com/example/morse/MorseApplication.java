@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.example.morse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RomanosApplication {
+public class MorseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RomanosApplication.class, args);
+		SpringApplication.run(MorseApplication.class, args);
 	}
 
 }
